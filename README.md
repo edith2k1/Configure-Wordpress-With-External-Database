@@ -37,7 +37,7 @@
 
 ![](https://i.imgur.com/ppCBSp7.png)
 
-> Khởi động lại MYSQL
+> Khởi động lại MySQL
 
         service mysql restart
 
